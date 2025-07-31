@@ -1,7 +1,7 @@
 # 🛒 Forever Full Stack – E-Commerce Shopping Website (MERN Stack)
 
 [Live Demo 🚀](https://forever-full-stack1.netlify.app)
-
+[admin-panel 🚀](https://admin-forever1.netlify.app/)
 Forever Full Stack is a modern, fully functional e-commerce web application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). It features user authentication, product listing, cart functionality, payment integration, an admin dashboard, and more.
 
 ---
